@@ -25,7 +25,8 @@ analise-vendas-sql/
 │   ├── 04_indicadores_negocio.sql
 │   ├── 05_receita_mensal.sql
 │   ├── 06_risco_inadimplencia.sql
-│   └── 07_desafio_extra.sql
+│   ├── 07_desafio_extra.sql
+│   └── 08_analise_executiva.sql
 └── README.md
 ```
 
@@ -44,6 +45,18 @@ analise-vendas-sql/
 7. Qual é a exposição financeira em pagamentos pendentes e atrasados?
 8. Quais clientes têm maior valor em aberto?
 9. Qual é o ranking de clientes por receita?
+
+## Análise executiva
+
+Foi adicionada uma análise executiva consolidando indicadores de desempenho comercial e financeiro, incluindo:
+
+- receita total;
+- ticket médio;
+- clientes com maior faturamento;
+- produtos com maior receita;
+- vendas por região;
+- pagamentos pendentes e atrasados;
+- participação percentual da receita por categoria.
 
 ## Conhecimentos demonstrados
 SQL, SQLite, modelagem relacional, JOINs, agregações, CTEs, funções de janela, análise de dados, indicadores de negócio e análise de risco.
