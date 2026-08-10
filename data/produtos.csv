@@ -1,0 +1,9 @@
+﻿produto_id,nome,categoria,preco_venda,custo_unitario
+1,Notebook Pro 14,Eletrônicos,4200.0,3100.0
+2,Monitor 27,Eletrônicos,1350.0,900.0
+3,Teclado Mecânico,Acessórios,420.0,250.0
+4,Mouse Sem Fio,Acessórios,180.0,90.0
+5,Dock USB-C,Acessórios,590.0,360.0
+6,Cadeira Ergonômica,Móveis,1650.0,1080.0
+7,Mesa Escritório,Móveis,1200.0,760.0
+8,Headset Corporativo,Acessórios,350.0,210.0

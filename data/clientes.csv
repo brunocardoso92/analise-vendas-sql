@@ -1,0 +1,13 @@
+﻿cliente_id,nome,uf,regiao,tipo_cliente
+1,Alfa Comércio,SP,Sudeste,PJ
+2,Beta Serviços,RJ,Sudeste,PJ
+3,Carolina Souza,MG,Sudeste,PF
+4,Delta Tecnologia,PR,Sul,PJ
+5,Eduardo Lima,RS,Sul,PF
+6,Fênix Consultoria,BA,Nordeste,PJ
+7,Gabriela Martins,PE,Nordeste,PF
+8,Horizonte Logística,GO,Centro-Oeste,PJ
+9,Isabela Rocha,DF,Centro-Oeste,PF
+10,Jota Participações,SC,Sul,PJ
+11,Kappa Indústria,SP,Sudeste,PJ
+12,Lucas Andrade,CE,Nordeste,PF
